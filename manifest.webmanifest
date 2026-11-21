@@ -3,13 +3,14 @@
   "id": "/",
   "name": "VREDITZ - Creator Zone",
   "short_name": "VREDITZ",
-  "description": "VREDITZ Creator Zone - Create, Edit, Inspire",
+  "description": "VREDITZ Creator Platform",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#070b24",
   "theme_color": "#4f46f5",
+  "prefer_related_applications": false,
   "icons": [
     {
       "src": "/icon-192.png",
