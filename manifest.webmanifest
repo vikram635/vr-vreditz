@@ -1,0 +1,27 @@
+
+{
+  "id": "/",
+  "name": "VREDITZ - Creator Zone",
+  "short_name": "VREDITZ",
+  "description": "VREDITZ Creator Zone - Create, Edit, Inspire",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070b24",
+  "theme_color": "#4f46f5",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
